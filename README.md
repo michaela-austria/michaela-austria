@@ -6,11 +6,17 @@
 
 ###
 
-<h4 align="left">Skills</h4>
+*   🌍  I'm based in Philippines
+*   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
+*   ✉️  You can contact me at [michaelaangelaaustria@gmail.com](mailto:michaelaangelaaustria@gmail.com)
+*   🚀  I'm currently working on [Pinoy Snacks App](http://pinoy-snacks-app.vercel.app/)
+*   ⚡  I am also actually interested in UI/UX Design
 
 ###
 
-<div align="center">
+<h4 align="left">Skills</h4>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="66" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" width="66" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="66" alt="sass logo"  />
@@ -23,13 +29,7 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Socials</h4>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <a href="www.linkedin.com/in/michaelaangelaaustria" target="_blank">
