@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Skills</h4>
+<!-- <h4 align="left">Skills</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="66" alt="html5 logo"  />
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+ -->
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&username=michaela-austria" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=bear&hide_border=false&username=michaela-austria" height="150" alt="languages graph"  />
