@@ -12,7 +12,6 @@
 *   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
 *   🗂  Visit my [Behance profile](https://www.behance.net/michaela-austria), I document my projects here.
 *   ⚡   I recently finished learning `Complete JavaScript Course` and `Advanced CSS and SASS Course` on Udemy and I have a lot of passion projects in mind to apply what I have learned.
-*   🚀  I'm currently working on [Pinoy Snacks App](http://pinoy-snacks-app.vercel.app/)
 
 ###
 
