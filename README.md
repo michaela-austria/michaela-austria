@@ -1,3 +1,5 @@
+![Header](./github-header-image-michaela.png)
+
 <h1 align="center">Hi, I'm Michaela! 👋🏻</h1>
 
 ###
