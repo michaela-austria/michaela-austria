@@ -2,16 +2,17 @@
 
 ###
 
-<p align="left">I am an aspiring Front-End Developer 👩🏻‍💻 I am enthusiastic on designing and developing captivating responsive websites and applications 🤩<br><br>⚡️I am constantly learning and improving my technical skills. I started taking courses on Udemy early 2022 and I have been working on variety of passion projects 🫶</p>
+<p align="left">I am an aspiring Front-End Developer. I am enthusiastic on designing and developing captivating responsive websites and applications. I am constantly learning and improving my technical skills. I started taking courses on Udemy early 2022 and I have been working on variety of passion projects</p>
 
 ###
 
 *   🌍  I'm based in Bulacan, Philippines
 *   👩🏻‍🎓  I'm a graduating student from FEU Institue of Technology taking up BS Information Technology with specialization in Web and Mobile Application.
+*   👀  I frequently use `html 5`, `css 3`, `sass`, `javascript`
 *   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
 *   ✉️  You can contact me at [michaelaangelaaustria@gmail.com](mailto:michaelaangelaaustria@gmail.com)
+*   ⚡   I recently finished learning `Complete JavaScript Course` and `Advanced CSS and SASS Course` on Udemy and I have a lot of passion projects in mind to apply what I have learned.
 *   🚀  I'm currently working on [Pinoy Snacks App](http://pinoy-snacks-app.vercel.app/)
-*   ⚡  I am also actually interested in UI/UX Design
 
 ###
 
