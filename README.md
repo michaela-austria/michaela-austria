@@ -12,8 +12,9 @@
 *   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
 *   🗂  Visit my [Behance profile](https://www.behance.net/michaela-austria), I document my projects here.
 *   🌱  I am currently studying [`React JavaScript Framework`](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/).
-*   ⚡   I recently finished learning [`Complete JavaScript Course`](https://www.udemy.com/certificate/UC-67f744a7-ad3f-4153-bd97-fb7a6369b5b1/) and [`Advanced CSS and SASS Course`](https://www.udemy.com/certificate/UC-c2a88c24-f2f1-46c6-934b-28da9c8023ab/) on Udemy and I have a lot of passion projects in mind to apply what I have learned.
-*   🏗  The recent project that I have accomplished is [`Pinoy Snacks Website`](https://github.com/michaela-austria/pinoy-snacks-DOM) where I implement DOM API and Intersection Observer API using Vanilla JavaScript.
+*   ⚡   I recently finished learning [`Complete JavaScript Course`](https://www.udemy.com/certificate/UC-67f744a7-ad3f-4153-bd97-fb7a6369b5b1/) on Udemy and I have a lot of passion projects in mind to apply what I have learned.
+*   🏁  The recent project that I have accomplished is [`Pinoy Snacks Website`](https://github.com/michaela-austria/pinoy-snacks-DOM) where I implement DOM API and Intersection Observer API using Vanilla JavaScript.
+*   🏗  I am currently working on `PupWalk: Dog Walk Tracker` where I integrate a map onto the application using Leaflet and Vanilla JavaScript.
 
 ###
 
