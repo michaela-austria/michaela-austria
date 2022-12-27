@@ -1,4 +1,4 @@
-![Header](./github-header-image-michaela.png)
+<!-- ![Header](./github-header-image-michaela.png) -->
 
 ###
 
