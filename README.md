@@ -1,8 +1,8 @@
-![Header](./github-header-image-michaela.png)
+<!-- ![Header](./github-header-image-michaela.png) -->
 
 ###
 
-<p align="left">I am an aspiring Front-End Developer. I am enthusiastic on designing and developing captivating responsive websites and applications. I am constantly learning and improving my technical skills. I started taking courses on Udemy early 2022 and I have been working on variety of passion projects.</p>
+<p align="left">I am a Front-End Developer who is enthusiastic on designing and developing captivating responsive websites and applications. I am constantly learning and improving my technical skills. I started taking courses on Udemy early 2022 and I have been working on variety of passion projects.</p>
 
 ###
 
