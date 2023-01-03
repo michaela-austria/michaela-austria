@@ -14,7 +14,7 @@
 *   🌱  I am currently studying `React JavaScript Framework`
 *   ⚡   I recently finished learning [`Complete JavaScript Course`](https://www.udemy.com/certificate/UC-67f744a7-ad3f-4153-bd97-fb7a6369b5b1/) on Udemy and I have a lot of passion projects in mind to apply what I have learned.
 *   🏁  The recent project that I have accomplished is [`Pinoy Snacks Website`](https://github.com/michaela-austria/pinoy-snacks-DOM) where I implement DOM API and Intersection Observer API using Vanilla JavaScript.
-*   🏗  I am currently working on `PupWalk: Dog Walk Tracker` where I integrate a map onto the application using Leaflet and Vanilla JavaScript.
+*   🏗  I am currently working on `PupWalk: Dog Walk Tracker` where I integrate a map onto the application using Leaflet and Vanilla JavaScript, I'm building this project with ES6 Classes.
 
 ###
 
