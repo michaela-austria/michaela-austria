@@ -7,7 +7,7 @@
 ###
 
 *   🌍  I'm based in Bulacan, Philippines
-*   👩🏻‍🎓  I'm a graduating student from FEU Institue of Technology taking up BS Information Technology with specialization in Web and Mobile Application.
+*   👩🏻‍🎓  I have a degree Information Technology with specialization in Web and Mobile Application from FEU Institute of Technology.
 *   👀  I frequently use `html 5`, `css 3`, `sass`, `javascript`
 *   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
 *   🗂  Visit my [Behance profile](https://www.behance.net/michaela-austria), I document my projects here.
