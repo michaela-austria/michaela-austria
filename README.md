@@ -11,7 +11,7 @@
 *   👀  I frequently use `html 5`, `css 3`, `sass`, `javascript`
 *   🖥️  See my portfolio at [michaelaangelaaustria.com](http://michaelaangelaaustria.com/)
 *   🗂  Visit my [Behance profile](https://www.behance.net/michaela-austria), I document my projects here.
-*   🌱  I am currently studying `React JavaScript Framework`
+*   🌱  I am currently studying `Vue JavaScript Framework`
 *   ⚡   I recently finished learning [`Complete JavaScript Course`](https://www.udemy.com/certificate/UC-67f744a7-ad3f-4153-bd97-fb7a6369b5b1/) on Udemy and I have a lot of passion projects in mind to apply what I have learned.
 *   🏁  The recent project that I have accomplished is [`PupWalk: Dog Walk Tracker`](https://github.com/michaela-austria/pupwalk) where I integrate a map onto the application using Leaflet and Vanilla JavaScript, I'm built this project with ES6 Classes.
 
